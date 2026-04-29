@@ -1,3 +1,5 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sepideh&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepideh&layout=compact)
 ## About Me! 👋
 
 I am a data analyst with over five years of professional experience in data analytics, machine learning, deep learning, and neural network–based modeling. I work extensively with structured and unstructured data, building predictive models, analytical dashboards, and end-to-end data pipelines that support strategic, data-driven decisions.
