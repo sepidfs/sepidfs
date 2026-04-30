@@ -2,7 +2,7 @@
 
 I am a data analyst with over five years of professional experience in data analytics, machine learning, deep learning, and neural network–based modeling. I work extensively with structured and unstructured data, building predictive models, analytical dashboards, and end-to-end data pipelines that support strategic, data-driven decisions.
 
-My technical expertise includes Python, R, SQL, TensorFlow, PyTorch, Microsoft Power BI, Tableau and modern cloud platforms such as Azure and AWS, along with Big Data tools like Spark. I am experienced in developing and optimizing neural network architectures, applying advanced statistical methods, and delivering scalable analytics solutions that create measurable business value.
+My technical expertise includes Python, R, SQL, TensorFlow, PyTorch, Power BI, Tableau and modern cloud platforms such as Azure and AWS, along with Big Data tools like Spark. I am experienced in developing and optimizing neural network architectures, applying advanced statistical methods, and delivering scalable analytics solutions that create measurable business value.
 
 I also hold several industry-recognized certifications, including:
 
@@ -11,6 +11,8 @@ I also hold several industry-recognized certifications, including:
 - Google Data Analytics Professional Certificate
 
 - IBM Machine Learning with Python Certificate
+  
+- Microsoft Power BI Certificate
 
 - Microsoft Azure AI Essentials Certificate
 
